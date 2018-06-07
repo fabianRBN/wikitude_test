@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Wikitude_test</string>
+    <string name="compass_accuracy_low"></string>
+    <string name="location_fetching">Trying to find out where you are</string>
 </resources>
